@@ -20,4 +20,4 @@ PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS-GP0015NOT07A
 - Erick Vinícius Lima de Sá: levantamento e revisão do público e das personas (moradores, pais de recém-nascidos, profissionais de saúde) e mapeamento das funcionalidades já definidas
 - Luiz Felipe Katryell Amaral Oliveira Santos: revisão das restrições técnicas e éticas do projeto (privacidade, offline-first, limite de telas e interações)
 - Kailaine Vieira Andrade: revisão de personalidade, identidade visual e tom de experiência, e identificação dos pontos de atenção do projeto
-- Emily Rayane Almeida Nascimento: não participou desta atividade
+- Emily Rayane Almeida Nascimento: Realizando ajustes do README
