@@ -14,10 +14,20 @@ Aplicativo mobile para mapeamento colaborativo de ruído urbano e proteção da 
 
 PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS-GP0015NOT07A
 
-## Responsabilidades desta atividade
+## Responsabilidades
+
+### Atividade 01 — Estudo de caso
 
 - Guilherme Santos: estruturação do repositório e da documentação (README, CHANGELOG, estudo de caso), síntese crítica do problema, contexto de uso e proposta de valor
 - Erick Vinícius Lima de Sá: levantamento e revisão do público e das personas (moradores, pais de recém-nascidos, profissionais de saúde) e mapeamento das funcionalidades já definidas
 - Luiz Felipe Katryell Amaral Oliveira Santos: revisão das restrições técnicas e éticas do projeto (privacidade, offline-first, limite de telas e interações)
 - Kailaine Vieira Andrade: revisão de personalidade, identidade visual e tom de experiência, e identificação dos pontos de atenção do projeto
-- Emily Rayane Almeida Nascimento: Realizando ajustes do README
+- Emily Rayane Almeida Nascimento: Realizando atualizações do README
+
+### Atividade 02 — Pesquisa, benchmark e personas
+
+- Guilherme Santos: pesquisa sobre o problema e o público (docs/pesquisa.md), com fontes e descobertas que influenciam o projeto
+- Erick Vinícius Lima de Sá: persona 1 — Marina Alves (moradora), com base no levantamento de público já feito na Atividade 01
+- Luiz Felipe Katryell Amaral Oliveira Santos: benchmark das soluções existentes (docs/benchmark.md)
+- Kailaine Vieira Andrade: persona 2 — Ricardo Nogueira (urbanista/fiscalização) e revisão de tom/experiência nas personas
+- Emily Rayane Almeida Nascimento: atualização do README e do CHANGELOG, e consolidação do material de apresentação (docs/apresentacao.pdf)
