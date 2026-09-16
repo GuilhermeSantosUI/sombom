@@ -31,3 +31,11 @@ PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS-GP0015NOT07A
 - Luiz Felipe Katryell Amaral Oliveira Santos: benchmark das soluções existentes (docs/benchmark.md)
 - Kailaine Vieira Andrade: persona 2 — Ricardo Nogueira (urbanista/fiscalização) e revisão de tom/experiência nas personas
 - Emily Rayane Almeida Nascimento: atualização do README e do CHANGELOG, e consolidação do material de apresentação (docs/apresentacao.pdf)
+
+### Atividade 03 — Funcionalidades e requisitos
+
+- Guilherme Santos: seção 1 de docs/requisitos.md — definição e justificativa das principais funcionalidades do app
+- Erick Vinícius Lima de Sá: seção 2 de docs/requisitos.md — transformação das funcionalidades em requisitos funcionais numerados (RF01, RF02...)
+- Luiz Felipe Katryell Amaral Oliveira Santos: seção 3 de docs/requisitos.md — requisitos não funcionais (RNF01, RNF02...), cobrindo usabilidade, acessibilidade, privacidade/LGPD e desempenho
+- Kailaine Vieira Andrade: seções 4 e 5 de docs/requisitos.md — mapeamento CRUD (criar, consultar, atualizar e excluir) e priorização das funcionalidades em essenciais, importantes e secundárias
+- Emily Rayane Almeida Nascimento: revisão do README e do CHANGELOG e montagem do material de apresentação (docs/apresentacaoRequisitos.pdf)

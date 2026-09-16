@@ -1,5 +1,18 @@
 # Changelog
 
+## [16/09/2026]
+
+### Adicionado
+
+- Documento de funcionalidades e requisitos do SomBom (docs/requisitos.md), reunindo funcionalidades, requisitos funcionais, requisitos não funcionais, mapeamento CRUD e priorização
+- 9 funcionalidades principais (F01 a F09), cada uma com descrição, necessidade atendida e justificativa a partir do estudo de caso e da pesquisa
+- 14 requisitos funcionais numerados (RF01 a RF14), derivados das funcionalidades definidas
+- 8 requisitos não funcionais (RNF01 a RNF08), cobrindo usabilidade, acessibilidade, privacidade/LGPD e desempenho
+- Mapeamento CRUD das entidades do app (criação, consulta, atualização e exclusão de registros e medições)
+- Priorização das funcionalidades em essenciais, importantes e secundárias
+- Material de apresentação da Atividade 03 (docs/apresentacaoRequisitos.pdf)
+- Atualização do README.md com as responsabilidades individuais da Atividade 03
+
 ## [09/09/2026]
 
 ### Adicionado
