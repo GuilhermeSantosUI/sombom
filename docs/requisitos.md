@@ -51,3 +51,22 @@
 **Descrição:** Botão de ação flutuante sempre visível, levando direto à função de medição.
 **Necessidade atendida:** Usuário no escuro, impaciente, precisa localizar a função principal sem esforço.
 **Justificativa:** Sustenta o requisito de resolver a função principal em até 3 toques.
+
+---
+
+## 2. Requisitos funcionais
+
+- **RF01 — Medir ruído em tempo real:** O sistema deve permitir que o usuário inicie a medição de ruído com 1 toque, exibindo o valor em dB em tempo real.
+- **RF02 — Medir offline:** O sistema deve realizar a medição de ruído sem exigir conexão com a internet.
+- **RF03 — Classificar nível de ruído:** O sistema deve indicar visualmente (cor/faixa) se o nível medido está dentro ou acima do limite de referência (OMS/ABNT NBR 10151).
+- **RF04 — Registrar incômodo:** O sistema deve permitir que o usuário registre um incômodo sonoro informando horário, tipo de ruído e intensidade percebida.
+- **RF05 — Anonimizar registros:** O sistema não deve armazenar nem exibir nenhum dado que identifique o autor de um registro de incômodo.
+- **RF06 — Geolocalizar registro:** O sistema deve associar automaticamente a localização aproximada ao registro de incômodo, sem expor o endereço exato do usuário.
+- **RF07 — Exibir mapa colaborativo:** O sistema deve exibir um mapa com gradiente de cor representando o nível agregado de ruído por região.
+- **RF08 — Filtrar mapa por período:** O sistema deve permitir filtrar os dados do mapa por intervalo de data/horário.
+- **RF09 — Sincronizar dados offline:** O sistema deve armazenar localmente os registros feitos sem internet e sincronizá-los automaticamente quando a conexão for restabelecida.
+- **RF10 — Alternar modo diurno/noturno:** O sistema deve permitir a alternância entre interface diurna e noturna, manual ou automaticamente por horário.
+- **RF11 — Exibir dicas de proteção auditiva:** O sistema deve disponibilizar uma tela com conteúdo educativo sobre saúde auditiva.
+- **RF12 — Acessar medidor via FAB:** O sistema deve exibir um botão de acesso rápido (FAB) visível em todas as telas principais, levando diretamente ao medidor.
+- **RF13 — Limitar fluxo principal a 3 toques:** O sistema deve permitir que o usuário abra o app, meça o ruído e visualize o resultado em no máximo 3 interações, sem exigir login prévio.
+- **RF14 — Não armazenar áudio bruto:** O sistema deve processar o som apenas localmente para calcular o valor em dB, sem gravar ou transmitir o áudio captado.
