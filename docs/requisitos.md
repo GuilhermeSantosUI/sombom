@@ -70,3 +70,34 @@
 - **RF12 — Acessar medidor via FAB:** O sistema deve exibir um botão de acesso rápido (FAB) visível em todas as telas principais, levando diretamente ao medidor.
 - **RF13 — Limitar fluxo principal a 3 toques:** O sistema deve permitir que o usuário abra o app, meça o ruído e visualize o resultado em no máximo 3 interações, sem exigir login prévio.
 - **RF14 — Não armazenar áudio bruto:** O sistema deve processar o som apenas localmente para calcular o valor em dB, sem gravar ou transmitir o áudio captado.
+
+  ---
+
+  ## 4. CRUD
+
+| Informação | C | R | U | D | Observação |
+|---|---|---|---|---|---|
+| Registro de incômodo (horário, tipo, intensidade, localização) | ✅ | ✅ | ❌ | ✅ | Não há edição (**U**) porque o registro deve refletir o momento exato do incômodo; o usuário pode excluir (**D**) um registro feito por engano, mas não alterá-lo depois de enviado, para preservar a integridade do dado coletivo |
+| Medição de ruído (valor em dB, timestamp) | ✅ | ✅ | ❌ | ❌ | Cada medição é criada e pode ser consultada no histórico local; não é editável nem excluível individualmente, pois representa um dado factual momentâneo |
+| Dados agregados do mapa colaborativo | ✅ (automático) | ✅ | ❌ | ❌ | Gerados automaticamente a partir dos registros de incômodo; não há atualização/exclusão manual, pois é uma visão agregada e não um registro individual |
+| Conteúdo de proteção auditiva | ❌ | ✅ | ❌ | ❌ | Conteúdo estático mantido pela equipe do app; o usuário apenas consulta, não cria, edita ou exclui |
+| Preferência de modo diurno/noturno | ✅ | ✅ | ✅ | ❌ | O usuário define e pode alterar a preferência a qualquer momento; não há exclusão, pois sempre existe um modo ativo (o padrão é restaurado, não removido) |
+
+---
+
+## 5. Priorização
+
+**Essenciais**
+- F01 — Medidor de ruído em tempo real
+- F02 — Funcionamento offline do medidor
+- F03 — Registro de incômodo sonoro
+- F04 — Anonimato nos registros
+- F05 — Mapa colaborativo de ruído
+
+**Importantes**
+- F06 — Sincronização posterior dos dados offline
+- F07 — Alternância entre modo diurno e noturno
+- F09 — Acesso rápido ao medidor (FAB)
+
+**Secundárias**
+- F08 — Dicas de proteção auditiva
