@@ -4,8 +4,8 @@
 
 ### Adicionado
 
-- Protótipo de baixa fidelidade com as quatro telas principais e o fluxo de navegação (protótipos/prototipoBaixaFidelidade.pdf)
-- Protótipo de alta fidelidade com identidade visual, estados, componentes, acessibilidade e interações (protótipos/prototipoAltaFidelidade.pdf)
+- Protótipo de baixa fidelidade com as quatro telas principais e o fluxo de navegação (prototipos/prototipoBaixaFidelidade.pdf)
+- Protótipo de alta fidelidade com identidade visual, estados, componentes, acessibilidade e interações (prototipos/prototipoAltaFidelidade.pdf)
 - Justificativas de UI/UX, arquitetura offline-first e relação com personas e requisitos (docs/justificativas.md)
 - Registro das responsabilidades individuais da equipe na Atividade 04 no README.md
 - Participação da Emily Rayane Almeida Nascimento na definição de conteúdos, revisão de estados e interações, conferência do fluxo de apresentação e validação do checklist da Atividade 04

@@ -50,8 +50,8 @@ PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS-GP0015NOT07A
 
 ## Entrega da Atividade 04
 
-- [Protótipo de baixa fidelidade](protótipos/prototipoBaixaFidelidade.pdf)
-- [Protótipo de alta fidelidade](protótipos/prototipoAltaFidelidade.pdf)
+- [Protótipo de baixa fidelidade](prototipos/prototipoBaixaFidelidade.pdf)
+- [Protótipo de alta fidelidade](prototipos/prototipoAltaFidelidade.pdf)
 - [Justificativas de UI/UX e arquitetura](docs/justificativas.md)
 
 O fluxo prototipado cobre as quatro telas principais do projeto: medidor, mapa colaborativo, registro de incômodo e proteção auditiva. A função prioritária pode ser concluída em até três interações, funciona offline e mantém os registros anônimos.
