@@ -39,3 +39,19 @@ PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS-GP0015NOT07A
 - Luiz Felipe Katryell Amaral Oliveira Santos: seção 3 de docs/requisitos.md — requisitos não funcionais (RNF01, RNF02...), cobrindo usabilidade, acessibilidade, privacidade/LGPD e desempenho
 - Kailaine Vieira Andrade: seções 4 e 5 de docs/requisitos.md — mapeamento CRUD (criar, consultar, atualizar e excluir) e priorização das funcionalidades em essenciais, importantes e secundárias
 - Emily Rayane Almeida Nascimento: revisão do README e do CHANGELOG e montagem do material de apresentação (docs/apresentacaoRequisitos.pdf)
+
+### Atividade 04 — Prototipação
+
+- Guilherme Santos: consolidação do fluxo de navegação, relação com o estudo de caso e arquitetura proposta; revisão final dos artefatos
+- Erick Vinícius Lima de Sá: hierarquia do medidor e do registro de incômodo a partir da persona Marina; revisão dos textos e estados do fluxo principal
+- Luiz Felipe Katryell Amaral Oliveira Santos: representação do mapa colaborativo, filtros e estados de sincronização; conferência de privacidade e requisitos não funcionais
+- Kailaine Vieira Andrade: definição da paleta, tipografia, componentes, modo noturno e critérios de acessibilidade; revisão da coerência visual
+- Emily Rayane Almeida Nascimento: participação na definição dos textos e conteúdos das telas, organização da evolução entre baixa e alta fidelidade, conferência do fluxo de apresentação e dos estados das interações, validação do checklist de requisitos da Atividade 04 e consolidação da documentação da entrega no README e no CHANGELOG
+
+## Entrega da Atividade 04
+
+- [Protótipo de baixa fidelidade](protótipos/prototipoBaixaFidelidade.pdf)
+- [Protótipo de alta fidelidade](protótipos/prototipoAltaFidelidade.pdf)
+- [Justificativas de UI/UX e arquitetura](docs/justificativas.md)
+
+O fluxo prototipado cobre as quatro telas principais do projeto: medidor, mapa colaborativo, registro de incômodo e proteção auditiva. A função prioritária pode ser concluída em até três interações, funciona offline e mantém os registros anônimos.
