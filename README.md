@@ -48,6 +48,16 @@ PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS-GP0015NOT07A
 - Kailaine Vieira Andrade: definição da paleta, tipografia, componentes, modo noturno e critérios de acessibilidade; revisão da coerência visual
 - Emily Rayane Almeida Nascimento: participação na definição dos textos e conteúdos das telas, organização da evolução entre baixa e alta fidelidade, conferência do fluxo de apresentação e dos estados das interações, validação do checklist de requisitos da Atividade 04 e consolidação da documentação da entrega no README e no CHANGELOG
 
+### Atividade 05 — Apresentação e entrega final
+
+- Guilherme Santos: apresentação oral da solução no dia da avaliação, incluindo problema, usuários, funcionalidades, protótipos e arquitetura offline-first
+- Erick Vinícius Lima de Sá: apoio na preparação da demonstração do medidor, do fluxo prioritário e da relação com a persona Marina
+- Emily Rayane Almeida Nascimento: montagem e revisão do material da apresentação final, organização do roteiro e conferência do checklist de entrega
+- Luiz Felipe Katryell Amaral Oliveira Santos: apoio na preparação dos conteúdos sobre o mapa colaborativo, os registros anônimos e os requisitos técnicos de privacidade
+- Kailaine Vieira Andrade: apoio na preparação dos conteúdos sobre identidade visual, modo noturno, acessibilidade e evolução dos protótipos
+
+> A apresentação oral será realizada por Guilherme Santos. Os demais integrantes ficam alocados nas atividades de preparação, revisão dos materiais, organização da demonstração e suporte aos conteúdos da apresentação.
+
 ## Entrega da Atividade 04
 
 - [Protótipo de baixa fidelidade](prototipos/prototipoBaixaFidelidade.pdf)
@@ -55,3 +65,21 @@ PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS-GP0015NOT07A
 - [Justificativas de UI/UX e arquitetura](docs/justificativas.md)
 
 O fluxo prototipado cobre as quatro telas principais do projeto: medidor, mapa colaborativo, registro de incômodo e proteção auditiva. A função prioritária pode ser concluída em até três interações, funciona offline e mantém os registros anônimos.
+
+## Entrega final da Atividade 05
+
+- [Apresentação final — Unidade I](docs/apresentacaoFinalUnidadeI.pdf)
+- [Pesquisa e benchmark](docs/apresentacao.pdf)
+- [Funcionalidades e requisitos](docs/requisitos.md)
+- [Protótipo de baixa fidelidade](prototipos/prototipoBaixaFidelidade.pdf)
+- [Protótipo de alta fidelidade](prototipos/prototipoAltaFidelidade.pdf)
+- [Justificativas de UI/UX e arquitetura](docs/justificativas.md)
+
+### Checklist da apresentação
+
+- Problema, público e proposta de solução apresentados.
+- Marina Alves destacada como persona prioritária e Ricardo Nogueira apresentado como usuário analítico.
+- Medidor, registro anônimo, mapa colaborativo, modo offline e proteção auditiva demonstrados.
+- Fluxo das quatro telas principais apresentado a partir dos protótipos.
+- Arquitetura mobile-first/offline-first e proteção do áudio explicadas.
+- Responsabilidades individuais registradas neste README.
