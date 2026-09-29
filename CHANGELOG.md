@@ -9,6 +9,12 @@
 - Justificativas de UI/UX, arquitetura offline-first e relação com personas e requisitos (docs/justificativas.md)
 - Registro das responsabilidades individuais da equipe na Atividade 04 no README.md
 - Participação da Emily Rayane Almeida Nascimento na definição de conteúdos, revisão de estados e interações, conferência do fluxo de apresentação e validação do checklist da Atividade 04
+- Apresentação final da Unidade I, reunindo problema, personas, funcionalidades, protótipos, arquitetura e demonstração do fluxo principal (docs/apresentacaoFinalUnidadeI.pdf)
+- Registro das responsabilidades individuais da equipe na Atividade 05 no README.md
+
+### Documentação final
+
+- Checklist da apresentação final com rastreabilidade para os materiais entregues no README.md
 
 ### Ajustado
 
