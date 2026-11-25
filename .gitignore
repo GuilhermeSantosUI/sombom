@@ -1,0 +1,8 @@
+# Generated Flutter caches; app source remains visible.
+.dart_tool/
+build/
+agendaflutter/.dart_tool/
+.DS_Store
+
+# Backups created by the optional team package installer.
+.entrega-backups/
