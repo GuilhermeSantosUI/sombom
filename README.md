@@ -83,3 +83,15 @@ O fluxo prototipado cobre as quatro telas principais do projeto: medidor, mapa c
 - Fluxo das quatro telas principais apresentado a partir dos protótipos.
 - Arquitetura mobile-first/offline-first e proteção do áudio explicadas.
 - Responsabilidades individuais registradas neste README.
+
+## Aplicativo Flutter — estrutura e relatos
+
+O código executável desta entrega está em [`app/`](app/). Inclui a estrutura de navegação, os componentes compartilhados, o repositório local e o fluxo de criar, consultar e excluir relatos simulados.
+
+```sh
+cd app
+flutter pub get
+flutter run -d chrome
+```
+
+Veja [a documentação do aplicativo](app/README.md) para executar os testes e conferir a organização. As telas dos demais módulos serão integradas nas próximas entregas.
